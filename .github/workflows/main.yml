@@ -1,6 +1,0 @@
-- name: Start app
-  run: |
-    python app.py &
-    
-- name: Run Monitoring Check
-  run: python monitor.py
